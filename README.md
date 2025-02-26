@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hola, soc Miquel Marquès Bravo👋
+Soc un alumne de sistemes microinformatics i xarxes estic cursant el segon any en la Escolapia Santa Anna - Mataró. Estic interesat en la gestio dels servidors com la administarció de programes instal·lació de servidors en xarxa 🛜 i en cloud ☁️.
 
-<!--
-**miquelmarques/miquelmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A part d'aixó, difruto amb el esport especialment amb el atletisme 👟 en què és un esport que li dedico 6 dies a la setmana, també m'agrad veure pel·licules i series, jugar a videojocs 🕹️, llegir llibres 📖. Me encanta aprendre i millorar cada dia tot i les adversitats.
+
+En aquest repositori presonal pots anar veient activitats/projectes que he anat realitzant durant el curs en que vull destacar i vull compartir amb vosaltres.
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
