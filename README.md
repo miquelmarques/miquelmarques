@@ -4,20 +4,23 @@
 
 ## Hola, soc Miquel Marquès Bravo👋
 
-Soc un alumne de sistemes microinformatics i xarxes estic cursant el segon any en la Escolapia Santa Anna - Mataró. Estic interesat en la gestio dels servidors com la administarció de programes instal·lació de servidors en xarxa 🛜 i en cloud ☁️.
+Soc un alumne de sistemes microinformàtics i xarxes estic cursant el segon any en l'Escolàpia Santa Anna - Mataró. Estic interessat en la gestió dels servidors com l'administració de programes instal·lació de servidors en xarxa 🛜 i en cloud ☁️.
 
-A part d'aixó, difruto amb el esport especialment amb el atletisme 👟 en què és un esport que li dedico 6 dies a la setmana, també m'agrad veure pel·licules i series, jugar a videojocs 🕹️, llegir llibres 📖. Me encanta aprendre i millorar cada dia tot i les adversitats.
+A part d'això, gaudeixo amb l'esport especialment amb l'atletisme 👟 en què és un esport que li dedico 6 dies a la setmana, també m'agrada veure pel·lícules i sèries, jugar a videojocs 🕹️, llegir llibres 📖. M'encanta aprendre i millorar cada dia tot i les adversitats.
 
-En aquest repositori presonal pots anar veient activitats/projectes que he anat realitzant durant el curs en que vull destacar i vull compartir amb vosaltres.
+En aquest repositori personal pots anar veient activitats/projectes que he anat realitzant durant el curs que vull destacar i vull compartir amb vosaltres.
 
 <h2 align="center">💻 TECNOLOGIES TREBALLADES</h2>
 
-Aqui teniu unes de les tecnologies/applicacions que après durant la meva formació professional
+Aquí teniu unes de les tecnologies/aplicacions que après durant la meva formació professional.
 <p align="center" width=60%>
   <img src="https://schoolingip.com/wp-content/uploads/2024/01/KEA-DHCP.png" alt="KEA DHCP" width="40px">
   <img src="https://cdn.kevinmaschke.com/wp-content/uploads/2014/11/logo-ubuntu_st_no%C2%AE-black_orange-hex.png" alt="Ubuntu Server" width="40px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="40px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1085px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="40px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/368px-Windows_11_logo.svg.png" alt="Windows 11" width="100px">
+  <img src="https://www.greenbone.net/wp-content/uploads/Label_Enterprise_CENO.svg" alt="Greenbone Software" width="40px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Kali" width="40px">  
 </p>
 
 
