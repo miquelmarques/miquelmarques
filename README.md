@@ -4,11 +4,22 @@
 
 ## Hola, soc Miquel Marquès Bravo👋
 
-Soc un alumne de sistemes microinformàtics i xarxes estic cursant el segon any en l'Escolàpia Santa Anna - Mataró. Estic interessat en la gestió dels servidors com l'administració de programes instal·lació de servidors en xarxa 🛜 i en cloud ☁️.
+Soc un alumne de Administració de Sistemes Informatics en Xarxa (ASIX) estic cursant el primer any en L'institut TIC - Barcelona. Estic interessat en la gestió dels servidors com l'administració de programes instal·lació de servidors en xarxa 🛜 i en cloud ☁️.
 
 A part d'això, gaudeixo amb l'esport especialment amb l'atletisme 👟 en què és un esport que li dedico 6 dies a la setmana, també m'agrada veure pel·lícules i sèries, jugar a videojocs 🕹️, llegir llibres 📖. M'encanta aprendre i millorar cada dia tot i les adversitats.
 
 En aquest repositori personal pots anar veient activitats/projectes que he anat realitzant durant el curs que vull destacar i vull compartir amb vosaltres.
+
+<--<h2 align="center">💻 TITOLS / DIPLOMES</h2>--->
+<div display="inline">
+  <div width="60%">
+  <h3>Sistemes microinformatics en Xarxa | 2023-2025</h3> <br>
+  Realitzat a l'<a href="https://mataro.escolapia.cat/">Escola Pia Sant Anna Mataró</a></div>
+    <div width=40%> <img src="https://th.bing.com/th/id/R.cf1c7e43ad43410ed4cb78e0c773224d?rik=Q%2f260Y0l6Pag%2bw&pid=ImgRaw&r=0" alt="Logo escolaPia" width=100%></div>
+</div>
+--->
+
+
 
 <h2 align="center">💻 TECNOLOGIES TREBALLADES</h2>
 
