@@ -9,15 +9,24 @@ Soc un alumne de Administració de Sistemes Informatics en Xarxa (ASIX) estic cu
 A part d'això, gaudeixo amb l'esport especialment amb l'atletisme 👟 en què és un esport que li dedico 6 dies a la setmana, també m'agrada veure pel·lícules i sèries, jugar a videojocs 🕹️, llegir llibres 📖. M'encanta aprendre i millorar cada dia tot i les adversitats.
 
 En aquest repositori personal pots anar veient activitats/projectes que he anat realitzant durant el curs que vull destacar i vull compartir amb vosaltres.
-
-<!--<h2 align="center">💻 TITOLS / DIPLOMES</h2>
-<div display="inline">
-  <div width="60%">
-  <h3>Sistemes microinformatics en Xarxa | 2023-2025</h3> <br>
-  Realitzat a l'<a href="https://mataro.escolapia.cat/">Escola Pia Sant Anna Mataró</a></div>
-    <div width=40%> <img src="https://th.bing.com/th/id/R.cf1c7e43ad43410ed4cb78e0c773224d?rik=Q%2f260Y0l6Pag%2bw&pid=ImgRaw&r=0" alt="Logo escolaPia" width=100%></div>
-</div>
---->
+<html>
+<h2 align="center">💻 TITOLS / DIPLOMES</h2>
+<table style="width: 100%; border-collapse: collapse;">
+  <tbody>
+     <tr>
+       <td style="border: 0px solid #ddd" width=60%> 
+         <h3>Sistemes microinformatics en Xarxa | 2023-2025</h3> 
+          Realitzat a l'<a href="https://mataro.escolapia.cat/">Escola Pia Sant Anna Mataró</a>
+       </td>
+       <td style="border: 0px solid #ddd" width=40%> 
+         <img src="https://th.bing.com/th/id/R.cf1c7e43ad43410ed4cb78e0c773224d?rik=Q%2f260Y0l6Pag%2bw&pid=ImgRaw&r=0" alt="Logo escolaPia" width=40%>
+       </td>
+     </tr>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+</html>
 
 
 
