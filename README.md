@@ -10,7 +10,7 @@ A part d'això, gaudeixo amb l'esport especialment amb l'atletisme 👟 en què 
 
 En aquest repositori personal pots anar veient activitats/projectes que he anat realitzant durant el curs que vull destacar i vull compartir amb vosaltres.
 
-<--<h2 align="center">💻 TITOLS / DIPLOMES</h2>--->
+<!--<h2 align="center">💻 TITOLS / DIPLOMES</h2>
 <div display="inline">
   <div width="60%">
   <h3>Sistemes microinformatics en Xarxa | 2023-2025</h3> <br>
