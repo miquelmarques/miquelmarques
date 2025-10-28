@@ -30,6 +30,10 @@ Aquí teniu unes de les tecnologies/aplicacions que après durant la meva formac
 <h2 align="center">📮 CONTACTE </h2>
 <p align="center">
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miquel-marques-bravo-a8a563266/)
+<!--[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)--->
+
+
 </p>
 
 
